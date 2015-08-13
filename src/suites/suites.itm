@@ -1,0 +1,7 @@
+SUITE(file_create_mt)
+SUITE(file_removal_mt)
+SUITE(file_rename_mt)
+SUITE(directory_create_mt)
+SUITE(directory_removal_mt)
+SUITE(open_during_create_mt)
+SUITE(bonnie64_mt)
